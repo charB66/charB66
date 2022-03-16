@@ -1,8 +1,16 @@
-![banner](https://user-images.githubusercontent.com/59340663/158617138-b74b0f5f-7cb3-4c1d-8a3c-549bf3e600e5.png)
+<div align="center">
+  <img title="Banner" src="https://user-images.githubusercontent.com/59340663/158617138-b74b0f5f-7cb3-4c1d-8a3c-549bf3e600e5.png">
+</div>
+<p align="center">
+  Hello 👋<br>
+  I'm currently studying cybersecurity 🎓
+</p>
 
-### Hello 👋
+---
 
-I'm currently studying cybersecurity 🎓
+### Looking for cybersecurity apprenticeship 💼
+In October 2022 i start studying cybersecurity at Ynov Bordeaux school.  
+If you are looking for a new collaborator, let me know 👋
 
 ### Looking for collaborate 👯
 It would be a pleasure to collaborate with you on any type of cybersecurity project 💪
