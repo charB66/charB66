@@ -13,7 +13,7 @@ In October 2022 i start studying cybersecurity at Ynov Bordeaux school.
 If you are looking for a new collaborator, let me know 👋
 
 ### Looking for collaborate 👯
-It would be a pleasure to collaborate with on any type of cybersecurity project 💪
+It would be a pleasure to collaborate on any type of cybersecurity project 💪
 
 <!--
 **RocaFR/RocaFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
