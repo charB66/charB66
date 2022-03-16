@@ -1,4 +1,11 @@
-### Hi there 👋
+![banner](https://user-images.githubusercontent.com/59340663/158617138-b74b0f5f-7cb3-4c1d-8a3c-549bf3e600e5.png)
+
+### Hello 👋
+
+I'm currently studying cybersecurity 🎓
+
+### Looking for collaborate 👯
+It would be a pleasure to collaborate with you on any type of cybersecurity project 💪
 
 <!--
 **RocaFR/RocaFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
