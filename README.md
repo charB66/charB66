@@ -1,6 +1,6 @@
 <div align="center">
   <img title="Banner" src="https://user-images.githubusercontent.com/59340663/158617138-b74b0f5f-7cb3-4c1d-8a3c-549bf3e600e5.png"><br>
-  <href="https://tryhackme.com/p/charB66"><img src="https://tryhackme-badges.s3.amazonaws.com/charB66.png" alt="TryHackMe"></a></div>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/charB66.png" alt="TryHackMe"></div>
   
 <p>
   Hello 👋<br>
