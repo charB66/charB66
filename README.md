@@ -12,11 +12,3 @@
   <img alt="MalDev (Lab)" src="https://img.shields.io/badge/RBP--0x10-MalDev_(Lab)-7dff6a?style=for-the-badge&labelColor=050510" />
   <img alt="Detect / Block" src="https://img.shields.io/badge/RBP--0x00-Detect_%2F_Block-ff2bd6?style=for-the-badge&labelColor=050510" />
 </p>
-
----
-
-<p align="center">
-  <sub>
-    signal &gt; noise · emulate to understand · detect with intent
-  </sub>
-</p>
