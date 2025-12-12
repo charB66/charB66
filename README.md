@@ -1,4 +1,4 @@
-<h1 align="center">Purple Teamer</h1>
+<h1 align="center">🎭 Purple Teamer</h1>
 
 <p align="center">
   <sub>
